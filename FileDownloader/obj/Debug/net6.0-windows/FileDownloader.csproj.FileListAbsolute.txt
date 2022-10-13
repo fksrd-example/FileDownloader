@@ -1,0 +1,17 @@
+C:\Users\fokso\source\repos\FileDownloader\FileDownloader\bin\Debug\net6.0-windows\FileDownloader.exe
+C:\Users\fokso\source\repos\FileDownloader\FileDownloader\bin\Debug\net6.0-windows\FileDownloader.deps.json
+C:\Users\fokso\source\repos\FileDownloader\FileDownloader\bin\Debug\net6.0-windows\FileDownloader.runtimeconfig.json
+C:\Users\fokso\source\repos\FileDownloader\FileDownloader\bin\Debug\net6.0-windows\FileDownloader.dll
+C:\Users\fokso\source\repos\FileDownloader\FileDownloader\bin\Debug\net6.0-windows\FileDownloader.pdb
+C:\Users\fokso\source\repos\FileDownloader\FileDownloader\obj\Debug\net6.0-windows\FileDownloader.csproj.AssemblyReference.cache
+C:\Users\fokso\source\repos\FileDownloader\FileDownloader\obj\Debug\net6.0-windows\FileDownloader.Form1.resources
+C:\Users\fokso\source\repos\FileDownloader\FileDownloader\obj\Debug\net6.0-windows\FileDownloader.csproj.GenerateResource.cache
+C:\Users\fokso\source\repos\FileDownloader\FileDownloader\obj\Debug\net6.0-windows\FileDownloader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fokso\source\repos\FileDownloader\FileDownloader\obj\Debug\net6.0-windows\FileDownloader.AssemblyInfoInputs.cache
+C:\Users\fokso\source\repos\FileDownloader\FileDownloader\obj\Debug\net6.0-windows\FileDownloader.AssemblyInfo.cs
+C:\Users\fokso\source\repos\FileDownloader\FileDownloader\obj\Debug\net6.0-windows\FileDownloader.csproj.CoreCompileInputs.cache
+C:\Users\fokso\source\repos\FileDownloader\FileDownloader\obj\Debug\net6.0-windows\FileDownloader.dll
+C:\Users\fokso\source\repos\FileDownloader\FileDownloader\obj\Debug\net6.0-windows\refint\FileDownloader.dll
+C:\Users\fokso\source\repos\FileDownloader\FileDownloader\obj\Debug\net6.0-windows\FileDownloader.pdb
+C:\Users\fokso\source\repos\FileDownloader\FileDownloader\obj\Debug\net6.0-windows\FileDownloader.genruntimeconfig.cache
+C:\Users\fokso\source\repos\FileDownloader\FileDownloader\obj\Debug\net6.0-windows\ref\FileDownloader.dll
